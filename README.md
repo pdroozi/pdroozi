@@ -1,5 +1,5 @@
 ### Olá! Eu sou Pedro Figueiredo. 👋
-Formado e Técnico em Redes de Computadores, atualmente no 5° período do curso de Ciência da Computação, amante de tecnologia e iniciante no mundo da programação.
+Formado e Técnico em Redes de Computadores, atualmente no 7° período do curso de Ciência da Computação, amante de tecnologia e iniciante no mundo da programação.
 
 ![Pedro Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=pdroozi&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroozi&layout=compact&theme=dark)
